@@ -1,11 +1,11 @@
 # Guide-book-for-sponginism-survivors
 # 目录
-* 序
+* [序](/生存手册/序.md)
   * 为什么写这篇文章
 * Sponge概述
   * 发展历史
   * 综合分析
-* Sponge搭建方法
+* Sponge搭建方法(/生存手册/Sponge的搭建方法.md)
   * 获取MC服务端
   * 下载forge
   * 下载SpongeForge
