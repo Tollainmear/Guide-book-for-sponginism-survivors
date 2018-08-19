@@ -81,6 +81,8 @@ pause
 
 &emsp;&emsp;最后，双击启动你刚刚写完的bat文件，正常启动后，bat脚本将会自动暂停，如果图所示：
 
+![启动成功1](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E5%90%AF%E5%8A%A8%E5%90%8E.png)
+
 这里涉及到一个提示
 ```
 You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
@@ -89,10 +91,6 @@ You need to agree to the EULA in order to run the server. Go to eula.txt for mor
 ```
 如果要运行服务器，你需要同意EULA协议，您可以查看eula.txt来了解更多信息。
 ```
-
-如图所示：
-
-![启动成功1](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E5%90%AF%E5%8A%A8%E5%90%8E.png)
 
 如果显示正确，说明本步骤完成。
 注：如果无法跳转到这一步，请：
