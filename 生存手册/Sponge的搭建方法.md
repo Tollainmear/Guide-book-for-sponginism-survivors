@@ -16,8 +16,10 @@
 Forge官网：[https://files.minecraftforge.net/](https://files.minecraftforge.net/)
 
 &emsp;&emsp;我们推荐您使用forge官方推荐的版本（Recommended，即有★标记的），如果Forge默认首页的Forge版本和您的服务端核心版本不对应，请点击左侧`Minecraft version`标签栏内对应的MC版本。
-
+![选择forge](https://github.com/Tollainmear/Guide-book-for-sponginism-survivors/blob/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E4%B8%8B%E8%BD%BDforge.png?raw=true)
 &emsp;&emsp;**确定版本对应后**，点击`Windows Installer`图标将会进入跳转页面。等待6秒后，点击右上角的Skip按钮即可开始下载。（无法跳转的用户请关闭阻止广告的插件）
+
+![forge跳转](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E4%B8%8B%E8%BD%BD-%E8%B7%B3%E8%BD%AC%E7%95%8C%E9%9D%A2.png)
 
 注：因为国内部分地区无法进行网页跳转，因此，我们为这部分无法在官方下载的用户准备了[网盘备份](https://pan.baidu.com/s/1bMcI0wJ16lbAI-Xfbvb4Wg)，★请注意★为了保证Forge开发者的合理收益，除非您无法访问官方下载通道，否则请不要使用备用网盘，因为我们不保证备用网盘是最新的推荐版本。
 
@@ -30,6 +32,20 @@ Forge官网：[https://files.minecraftforge.net/](https://files.minecraftforge.n
 1. 双击打开forge安装程序
 2. 如图所示，选择第二个`Install server`，并将路径选择到指定的路径。
 3. 点击`确定` —— 开始安装
+
+![forge安装](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E5%AE%89%E8%A3%85.png)
+
+安装过程如图：
+
+![安装过程](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E5%AE%89%E8%A3%85-%E7%95%8C%E9%9D%A2.png)
+
+安装完毕后，将会提示：
+
+![安装成功](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E5%AE%89%E8%A3%85-%E6%88%90%E5%8A%9F.png)
+
+此时，您的目录结构应该是这样：
+
+![文件目录](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E5%90%AF%E5%8A%A8%E5%89%8D.png)
 
 注：因为部分网络无法访问Forge依赖类库的下载网址，所以请根据情况自行切换线路
 
@@ -61,6 +77,11 @@ You need to agree to the EULA in order to run the server. Go to eula.txt for mor
 ```
 如果要运行服务器，你需要同意EULA协议，您可以查看eula.txt来了解更多信息。
 ```
+
+如图所示：
+
+![启动成功1](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E5%90%AF%E5%8A%A8%E5%90%8E.png)
+
 如果显示正确，说明本步骤完成。
 注：如果无法跳转到这一步，请：
 - 检测Forge依赖类库的完整性
@@ -74,6 +95,8 @@ You need to agree to the EULA in order to run the server. Go to eula.txt for mor
 &emsp;&emsp;执行启动脚本.bat。
 
 &emsp;&emsp;最终将得到完整的文件结构：
+
+![完整目录结构](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%90%AF%E5%8A%A8%E5%AE%8C%E6%88%90.png)
 
 #### 6.下载并安装Spongeforge
 &emsp;&emsp;Sponge官方网站为大家提供了非常多的版本的Spongeforge，这里建议大家在[官网下载地址](https://www.spongepowered.org/downloads/spongeforge/stable/1.12.2)下载`RECOMMENDED BUILD`（通常为置顶）。
@@ -90,6 +113,8 @@ You need to agree to the EULA in order to run the server. Go to eula.txt for mor
 /sponge version
 ```
 当输出如图所示的时候，代表您已经安装成功了。
+
+![最终命令行显示](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E6%9C%80%E7%BB%88%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%98%BE%E7%A4%BA.png)
 
 #### 8.注意事项
 &emsp;&emsp;自此，我们已经完成了Sponge服务端的搭建步骤，同时，我们十分推荐您继续阅读我们整理的[管理规范（倡议）](未完成)部分，这将在很大程度上降低您的维护成本。
