@@ -10,6 +10,9 @@
   * 下载forge
   * 下载SpongeForge
   * 编写启动脚本
+* 管理规范（倡导）
+  * 模组和插件的管理方式
+  * 模组和插件的命名前缀
 * 常用资源索引
   * SpongeORE
   * CurseForge
