@@ -7,6 +7,16 @@
 另外，本教程仅针对于正确安装了 Java 的 Windows 用户。
 
 #
+## 本文目录：
+1. [下载MC服务端](#1下载-minecraftserver-服务端)
+2. [下载 forge（以 1.12.2 的 2705 版本为例）](#2下载-forge以-1122-的-2705-版本为例)
+3. [安装 forge](#3安装-forge)
+4. [初次启动](#4初次启动)
+5. [第二次启动服务器](#5第二次启动服务器)
+6. [下载并安装 Spongeforge](#6下载并安装-spongeforge)
+7. [启动服务端](#7启动服务端)
+8. [注意事项](#8注意事项)
+#
 
 ### 1.下载 MinecraftServer 服务端
 &emsp;&emsp;首先，从 MC 官网下载服务端内核：
@@ -54,7 +64,7 @@ Forge 官网：[https://files.minecraftforge.net/](https://files.minecraftforge.
 
 #
 
-### 4.启动服务器
+### 4.初次启动
 &emsp;&emsp;因为未启动过的 forge 端没有生成必要文件结构，因此，我们需要先启动一次服务端，我们需要创建一个 txt 文件，将其内容改为：
 
 ```
@@ -71,7 +81,7 @@ pause
 - pause ： 启动参数，当批处理命令执行完毕后暂停（用于调试）
 ```
 
-&emsp;&emsp;修改完成后，保存关闭，并将此Txt文本后缀名改为.bat
+&emsp;&emsp;修改完成后，保存关闭，并将此 txt 文本后缀名改为 `.bat`。
 
 ###### 注：如果无法修改拓展名，请根据[此教程](https://jingyan.baidu.com/article/b7001fe14f5cbe0e7282ddf5.html)，将拓展名显示出来
 
