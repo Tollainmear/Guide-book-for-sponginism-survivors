@@ -26,7 +26,7 @@ Forge 官网：[https://files.minecraftforge.net/](https://files.minecraftforge.
 
 ![forge跳转](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E4%B8%8B%E8%BD%BD-%E8%B7%B3%E8%BD%AC%E7%95%8C%E9%9D%A2.png)
 
-注：因为国内部分地区无法进行网页跳转，因此，我们为这部分无法在官方下载的用户准备了[网盘备份](https://pan.baidu.com/s/1bMcI0wJ16lbAI-Xfbvb4Wg)，★请注意★为了保证Forge开发者的合理收益，除非您无法访问官方下载通道，否则请不要使用备用网盘，因为我们不保证备用网盘是最新的推荐版本。
+###### 注：因为国内部分地区无法进行网页跳转，因此，我们为这部分无法在官方下载的用户准备了[网盘备份](https://pan.baidu.com/s/1bMcI0wJ16lbAI-Xfbvb4Wg)，★请注意★为了保证Forge开发者的合理收益，除非您无法访问官方下载通道，否则请不要使用备用网盘，因为我们不保证备用网盘是最新的推荐版本。
 
 #
 
@@ -42,19 +42,15 @@ Forge 官网：[https://files.minecraftforge.net/](https://files.minecraftforge.
 
 ![forge安装](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E5%AE%89%E8%A3%85.png)
 
-安装过程如图：
+&emsp;&emsp;安装过程如图：
 
 ![安装过程](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E5%AE%89%E8%A3%85-%E7%95%8C%E9%9D%A2.png)
 
-安装完毕后，将会提示：
+&emsp;&emsp;安装完毕后，将会提示：
 
 ![安装成功](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/forge%E5%AE%89%E8%A3%85-%E6%88%90%E5%8A%9F.png)
 
-此时，您的目录结构应该是这样：
-
-![文件目录](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E5%90%AF%E5%8A%A8%E5%89%8D.png)
-
-注：因为部分网络无法访问 Forge 依赖类库的下载网址，所以请根据情况自行切换线路
+###### 注：因为部分网络无法访问 Forge 依赖类库的下载网址，所以请根据情况自行切换线路
 
 #
 
@@ -75,15 +71,19 @@ pause
 - pause ： 启动参数，当批处理命令执行完毕后暂停（用于调试）
 ```
 
-修改完成后，保存关闭，并将此Txt文本后缀名改为.bat
+&emsp;&emsp;修改完成后，保存关闭，并将此Txt文本后缀名改为.bat
 
-注：如果无法修改拓展名，请根据[此教程](https://jingyan.baidu.com/article/b7001fe14f5cbe0e7282ddf5.html)，将拓展名显示出来
+###### 注：如果无法修改拓展名，请根据[此教程](https://jingyan.baidu.com/article/b7001fe14f5cbe0e7282ddf5.html)，将拓展名显示出来
+
+&emsp;&emsp;此时，您的目录结构应该是这样：
+
+![文件目录](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E5%90%AF%E5%8A%A8%E5%89%8D.png)
 
 &emsp;&emsp;最后，双击启动你刚刚写完的 bat 文件，正常启动后，bat 脚本将会自动暂停，如果图所示：
 
 ![启动成功1](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E5%90%AF%E5%8A%A8%E5%90%8E.png)
 
-这里涉及到一个提示
+&emsp;&emsp;这里涉及到一个提示
 ```
 You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
 ```
@@ -92,8 +92,9 @@ You need to agree to the EULA in order to run the server. Go to eula.txt for mor
 如果要运行服务器，你需要同意 EULA 协议，您可以查看 eula.txt 来了解更多信息。
 ```
 
-如果显示正确，说明本步骤完成。
-注：如果无法跳转到这一步，请：
+&emsp;&emsp;如果显示正确，说明本步骤完成。
+
+###### 注：如果无法跳转到这一步，请：
 - 检测Forge依赖类库的完整性
 - 检测Java正确安装和配置
 
@@ -115,7 +116,7 @@ You need to agree to the EULA in order to run the server. Go to eula.txt for mor
 
 &emsp;&emsp;这里需要注意：SpongeForge 必须严格对应 Forge 版本号（只能等于或者高于要求的 Forge 版本），我们可以从 SpongeForge 的命名方式得到要求的 Forge 版本号，例如名为 `1.12.2-2705-7.1.0-BETA-3361`的Spongeforge对应需要的Forge最低版本为`2705`。
 
-注：国内网络可以正常访问和下载 SpongeForge。
+###### 注：国内网络可以正常访问和下载 SpongeForge。
 
 &emsp;&emsp;下载完成后我们需要把得到的 SpongeForge 放在`服务器根目录\mods`文件夹下，自此，SpongeForge 安装完毕
 
