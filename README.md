@@ -5,7 +5,7 @@
 * Sponge概述
   * 发展历史
   * 综合分析
-* Sponge搭建方法(/生存手册/Sponge的搭建方法.md)
+* [Sponge搭建方法](/生存手册/Sponge的搭建方法.md)
   * 获取MC服务端
   * 下载forge
   * 下载SpongeForge
