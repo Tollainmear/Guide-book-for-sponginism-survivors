@@ -87,8 +87,9 @@ pause
 ```
 You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
 ```
-翻译：
+
 ```
+翻译：
 如果要运行服务器，你需要同意 EULA 协议，您可以查看 eula.txt 来了解更多信息。
 ```
 
@@ -127,7 +128,7 @@ You need to agree to the EULA in order to run the server. Go to eula.txt for mor
 ```
 /sponge version
 ```
-当输出如图所示的时候，代表您已经安装成功了。
+&emsp;&emsp;当输出如图所示的时候，代表您已经安装成功了。
 
 ![最终命令行显示](https://raw.githubusercontent.com/Tollainmear/Guide-book-for-sponginism-survivors/master/%E5%9B%BE%E4%BE%8B/%E6%90%AD%E5%BB%BASponge%E6%9C%8D%E5%8A%A1%E7%AB%AF/%E6%9C%80%E7%BB%88%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%98%BE%E7%A4%BA.png)
 
